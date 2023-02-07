@@ -1,0 +1,9 @@
+C:\Users\spark\source\repos\WordToTxt\obj\Debug\WordToTxt.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\WordToTxt\obj\Debug\WordToTxt.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\WordToTxt\obj\Debug\WordToTxt.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\WordToTxt\bin\Debug\WordToTxt.exe.config
+C:\Users\spark\source\repos\WordToTxt\bin\Debug\WordToTxt.exe
+C:\Users\spark\source\repos\WordToTxt\bin\Debug\WordToTxt.pdb
+C:\Users\spark\source\repos\WordToTxt\obj\Debug\WordToTxt.csproj.ResolveComReference.cache
+C:\Users\spark\source\repos\WordToTxt\obj\Debug\WordToTxt.exe
+C:\Users\spark\source\repos\WordToTxt\obj\Debug\WordToTxt.pdb
